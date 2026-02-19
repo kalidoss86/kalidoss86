@@ -1,15 +1,25 @@
-### Hi there 👋
-As a Solution Architect, I am currently working on designing and developing C/C++ and .Net applications. My responsibilities include:
+## 👋 Hi, I'm Kalidoss
 
-- Collaborating with stakeholders to understand feature requirements and developing scalable and robust solutions that align with business objectives.
-- Mentoring and assisting team members, ensuring they adhere to best practices and deliver high-quality code.
-- Participating in technical discussions and resolving complex technical problems to arrive at optimal solutions.
-- Addressing performance issues and identifying and resolving memory leaks to improve overall application performance.
-- Reviewing feature designs and assessing potential vulnerabilities to ensure secure software development practices are followed.
-- Educating the team on security awareness and providing training to improve the overall security posture of the application.
-- Conducting audits on static code analysis and providing guidance to the team to identify and resolve code quality issues.
+I’m a Senior Solution Architect with 16+ years of experience building enterprise applications using C/C++, .NET, and Python.
 
-My experience and skills in solution architecture, technical leadership, and secure software development practices enable me to deliver high-quality, scalable, and secure solutions that exceed client expectations and drive business outcomes.
+I work across Windows-based on-prem systems and hybrid cloud environments, designing scalable, secure, and high-performance solutions. My experience ranges from multi-threaded C++ communication systems to full-stack applications built with ASP.NET Core, REST APIs, and Angular.
+
+### What I Focus On
+
+* Designing scalable and maintainable architectures
+* Building robust backend services and Windows applications
+* Debugging complex production issues and performance bottlenecks
+* Ensuring secure software development through threat modeling and code reviews
+* Mentoring teams and driving engineering best practices
+
+### Current Interests
+
+* AI-powered Text-to-SQL systems
+* Intelligent dashboards and automation
+* Applying machine learning to enterprise systems
+
+I enjoy solving complex technical problems and building systems that are reliable, secure, and built to last.
+
 
 <!--
 **kalidoss86/kalidoss86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
